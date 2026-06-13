@@ -5,10 +5,13 @@ import os
 
 home = os.path.expanduser("~")
 
+
+
+#please change the file path here for your work
 raw_file_path = os.path.join(
     home,
     "Documents",
-    "atp_analysis",
+    "atp_analysis",     
     "automated.xlsx"
 )
 
